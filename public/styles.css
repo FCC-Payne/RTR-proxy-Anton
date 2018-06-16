@@ -1,0 +1,16 @@
+
+body {
+  margin: 0px;
+}
+
+.top-part {
+  display: flex;
+  justify-content: space-between;
+  padding:30px;
+  margin: 30px;
+}
+
+#carousel {
+  display: flex;
+  justify-content: center;
+}
